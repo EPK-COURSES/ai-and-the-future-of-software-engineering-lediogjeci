@@ -1,0 +1,7 @@
+After researching the risks and ethical concerns of AI-assisted software development, I believe that AI is one of the most useful technological advancements for programmers, but it should be used carefully. AI can save a significant amount of time by generating code, explaining concepts, and helping developers solve problems more quickly. For students and beginners, it can also be a valuable learning tool.
+
+However, this research made me realize that relying too heavily on AI can be dangerous. If developers start accepting AI-generated code without understanding it, they may introduce bugs or security vulnerabilities into their software. More importantly, they may stop developing the problem-solving skills that are essential for becoming good engineers.
+
+The question "What happens if engineers stop understanding the code they ship?" highlights a serious issue. In my opinion, engineers who do not understand their own software cannot fully take responsibility for it. They may struggle to fix problems, improve systems, or explain decisions when something goes wrong. AI can generate code, but it cannot replace human judgment, accountability, and critical thinking.
+
+Overall, I think AI should be treated as an assistant rather than a replacement for software engineers. The most effective developers will be those who use AI to increase productivity while still maintaining a strong understanding of the code they write and deploy.
